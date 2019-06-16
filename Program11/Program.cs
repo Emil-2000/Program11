@@ -8,6 +8,7 @@ namespace Program11
     {
         static void Main(string[] args)
         {
+
             string signal = "1110000001100010001110001000111001110011000";
             Console.WriteLine("Исходное сообщение " + signal);
 
